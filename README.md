@@ -83,7 +83,7 @@ plt.show()
 ```
 
 ## Output:
-<img width="846" height="722" alt="image" src="https://github.com/user-attachments/assets/ca9acd5d-d7ef-4db7-997c-6de21445dd54" />
+<img width="895" height="714" alt="image" src="https://github.com/user-attachments/assets/7a6d3b4d-7714-4e93-9cac-aa56f3badd47" />
 
 <img width="1182" height="602" alt="image" src="https://github.com/user-attachments/assets/8a6d4581-d26b-4e1e-b7f0-5425802d3cba" />
 
