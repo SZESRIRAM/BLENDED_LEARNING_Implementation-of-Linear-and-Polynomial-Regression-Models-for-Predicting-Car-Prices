@@ -9,15 +9,15 @@ To write a program to predict car prices using Linear Regression and Polynomial 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the required libraries and load the dataset.
-2.Select input features (engine size, horsepower, mileage, etc.) and define the target variable (price).
-3.Split the dataset into training and testing sets.
-4.Create a Linear Regression model using a pipeline with feature scaling.
-5.Create a Polynomial Regression model (degree = 2) using PolynomialFeatures and scaling.
-6.Train both models using the training data.
-7.Predict car prices using the test data for both models.
-8.Evaluate both models using performance metrics such as MSE, MAE, and R² score.
-9.Plot actual vs predicted values to compare Linear and Polynomial Regression performance.
+1. Import the required libraries and load the dataset.<br/>
+2. Select input features (engine size, horsepower, mileage, etc.) and define the target variable (price).<br/>
+3. Split the dataset into training and testing sets.<br/>
+4. Create a Linear Regression model using a pipeline with feature scaling.<br/>
+5. Create a Polynomial Regression model (degree = 2) using PolynomialFeatures and scaling.<br/>
+6. Train both models using the training data.<br/>
+7. Predict car prices using the test data for both models.<br/>
+8. Evaluate both models using performance metrics such as MSE, MAE, and R² score.<br/>
+9. Plot actual vs predicted values to compare Linear and Polynomial Regression performance.
 
 ## Program:
 ```
